@@ -1,0 +1,5 @@
+flutter_spinkit: ^5.2.0
+
+https://restcountries.com/v3/all
+
+https://restcountries.com/v3.1/independent?status=true
